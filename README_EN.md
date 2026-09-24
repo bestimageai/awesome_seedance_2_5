@@ -1,5 +1,5 @@
 # Awesome Seedance 2.5 Prompts — English
 
-The maintained English introduction is [README.md](README.md).
+Explore [12 community video examples and prompt variations](README.md#explore-video-examples), or browse the [full English introduction](README.md).
 
-Browse [120 unique scenarios](prompts/README.md), [six shared English recipes](prompts/i18n/prompt-library.en.md), or [20 additional English briefs](prompts/production-workflows.en.md). The Chinese core is not fully translated into English; see the [language coverage table](prompts/i18n/README.md).
+Continue with [120 creative scenarios](prompts/README.md), [six English prompts](prompts/i18n/prompt-library.en.md), and [20 additional English briefs](prompts/production-workflows.en.md). Find more languages in the [language directory](prompts/i18n/README.md).
